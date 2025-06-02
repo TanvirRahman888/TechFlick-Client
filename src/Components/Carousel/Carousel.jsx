@@ -33,7 +33,7 @@ const Carousel = () => {
                     <div className="w-full bg-white border border-gray-200 shadow-sm dark:bg-gray-800 dark:border-gray-700 relative">
                         <img
                             className="rounded-t-lg h-96 object-cover w-full"
-                            src="../../assets/1.jpg"
+                            src="https://i.ibb.co.com/SDfLFFZZ/2.jpg"
                             alt=""
                         />
                         <div className="absolute bottom-5 left-5 rounded-lg text-left p-4 border-blue-700 border-2 bg-white bg-opacity-80 dark:bg-opacity-50">
@@ -68,7 +68,7 @@ const Carousel = () => {
                     <div className="w-full bg-white border border-gray-200 shadow-sm dark:bg-gray-800 dark:border-gray-700 relative">
                         <img
                             className="rounded-t-lg h-96 object-cover w-full"
-                            src="../../assets/2.jpg"
+                            src="https://i.ibb.co.com/JRMcVRkf/3.jpg"
                             alt=""
                         />
                         <div className="absolute bottom-5 left-5 rounded-lg text-left p-4 border-blue-700 border-2 bg-white bg-opacity-80 dark:bg-opacity-50">
@@ -103,7 +103,7 @@ const Carousel = () => {
                     <div className="w-full bg-white border border-gray-200 shadow-sm dark:bg-gray-800 dark:border-gray-700 relative">
                         <img
                             className="rounded-t-lg h-96 object-cover w-full"
-                            src="../../assets/3.jpg"
+                            src="https://i.ibb.co.com/wh4QgxHy/4.png"
                             alt=""
                         />
                         <div className="absolute bottom-5 left-5 rounded-lg text-left p-4 border-blue-700 border-2 bg-white bg-opacity-80 dark:bg-opacity-50">
@@ -138,7 +138,7 @@ const Carousel = () => {
                     <div className="w-full bg-white border border-gray-200 shadow-sm dark:bg-gray-800 dark:border-gray-700 relative">
                         <img
                             className="rounded-t-lg h-96 object-cover w-full"
-                            src="../../assets/4.jpg"
+                            src="https://i.ibb.co.com/JRMcVRkf/3.jpg"
                             alt=""
                         />
                         <div className="absolute bottom-5 left-5 rounded-lg text-left p-4 border-blue-700 border-2 bg-white bg-opacity-80 dark:bg-opacity-50">
